@@ -1,0 +1,49 @@
+Como Prefieres tu chica:
+
+De edad entre:
+-16-21?
+-22-27?
+-28-33?
+
+De piel:
+-morena?
+-blanca?
+-palida?
+-Asiatica?
+
+Con cabello:
+-pelirroja
+-rubio
+-castano
+-multicolor
+-negro
+
+//-ondulado?
+-lacio?
+
+//-corto?
+-largo?
+
+//-con pava?
+-sin pava?
+
+de ojos?
+-azul?
+-verde?
+-cafe?
+-negro?
+
+Que sea inteligente?
+
+Que le guste:
+-bailar?
+-cantar?
+-hablar?
+-escuchar?
+-trabajar?
+-nadar?
+-jugar?
+-comer?
+-dormir?
+-cocinar?
+
